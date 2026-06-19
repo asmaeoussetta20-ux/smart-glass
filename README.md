@@ -3,7 +3,7 @@
 > **Assister les personnes malvoyantes grâce à l'intelligence artificielle**
 
 <p align="center">
-  <img src="prototype.jpg" alt="Smart Glass Prototype" width="450">
+  <img src="images/prototype.jpg" alt="Smart Glass Prototype" width="450">
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
@@ -62,7 +62,7 @@ Des millions de personnes malvoyantes font face chaque jour au défi de détecte
 Voici le prototype monté sur des lunettes de soleil, intégrant le Raspberry Pi 4, le capteur ultrasonique HC-SR04 et la caméra :
 
 <p align="center">
-  <img src="prototype.jpg" alt="Prototype Smart Glass" width="450">
+  <img src="images/prototype.jpg" alt="Prototype Smart Glass" width="450">
 </p>
 
 *Vue du montage final : Raspberry Pi 4 fixé sur la branche, capteur HC-SR04 entre les verres, module caméra OV5647 sous le capteur, alimentation par batterie externe.*
@@ -140,7 +140,7 @@ Voici le prototype monté sur des lunettes de soleil, intégrant le Raspberry Pi
 ## 🔌 Schéma de Câblage
 
 <p align="center">
-  <img src="schema_buzzer_pir.png" alt="Schéma capteur PIR + Buzzer" width="450">
+  <img src="images/schema_buzzer_pir.png" alt="Schéma capteur PIR + Buzzer" width="450">
 </p>
 
 ```
