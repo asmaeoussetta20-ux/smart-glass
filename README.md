@@ -2,7 +2,7 @@
 
 > **Assister les personnes malvoyantes grâce à l'intelligence artificielle**
 
-![Smart Glass Banner](images/poster.png)
+![Smart Glass Banner](images/.png)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![YOLO](https://img.shields.io/badge/YOLO-11n-orange?logo=ultralytics)](https://docs.ultralytics.com/)
@@ -257,22 +257,6 @@ sudo python3 projet_final.py
 - 📱 Déploiement d'une application mobile pour le suivi
 - 📡 Support de plusieurs capteurs ultrasoniques (couverture angulaire élargie)
 - 🚗 Modèle YOLO spécialisé piétons/véhicules
-
----
-
-## 👥 Équipe
-
-Projet réalisé dans le cadre du **Semestre 4 — Année Académique 2025/2026**  
-**Université EUROMED de Fès (UEMF) — École d'Ingénierie Digitale et d'Intelligence Artificielle (EDIIA)**
-
-| Membre | Rôle |
-|--------|------|
-| **Asmae Oussetta** | Développement & Intégration |
-| **Nassima Moufidi** | Développement & Intégration |
-| **Mouad Okham** | Hardware & Câblage |
-| **Taoufiq Radoua** | Hardware & Câblage |
-
-**Encadrants :** Dr. Taha Zoulagh · Dr. Ayadi Nouamane
 
 ---
 
