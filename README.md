@@ -2,7 +2,7 @@
 
 > **Assister les personnes malvoyantes grâce à l'intelligence artificielle**
 
-![Smart Glass Banner](images/.png)
+![Smart Glass Prototype](images/prototype.jpg)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![YOLO](https://img.shields.io/badge/YOLO-11n-orange?logo=ultralytics)](https://docs.ultralytics.com/)
@@ -17,7 +17,7 @@
 - [À Propos](#-à-propos)
 - [Problématique](#-problématique)
 - [Objectifs](#-objectifs)
-- [Démo](#-démo)
+- [Prototype](#-prototype)
 - [Architecture du Système](#-architecture-du-système)
 - [Matériel Requis](#-matériel-requis)
 - [Logiciels & Bibliothèques](#-logiciels--bibliothèques)
@@ -55,20 +55,13 @@ Des millions de personnes malvoyantes font face chaque jour au défi de détecte
 
 ---
 
-## 🎬 Démo
+## 🛠️ Prototype
 
-| Prototype | Soutenance |
-|-----------|------------|
-| ![Prototype](images/prototype.jpg) | ![Soutenance](images/soutenance.jpg) |
+Voici le prototype monté sur des lunettes de soleil, intégrant le Raspberry Pi 4, le capteur ultrasonique HC-SR04 et la caméra :
 
-**Exemple de fonctionnement :**
-```
-📏 Distance : 67 cm
-⚡ Objet proche → Analyse YOLO...
-   Détections : ['person']
-🔊 "personne detecte a 67 centimetres"
-🚨 ALARME activée (2 secondes)
-```
+![Prototype Smart Glass](images/prototype.jpg)
+
+*Vue du montage final : Raspberry Pi 4 fixé sur la branche, capteur HC-SR04 entre les verres, module caméra OV5647 sous le capteur, alimentation par batterie externe.*
 
 ---
 
@@ -141,6 +134,8 @@ Des millions de personnes malvoyantes font face chaque jour au défi de détecte
 ---
 
 ## 🔌 Schéma de Câblage
+
+![Schéma capteur PIR + Buzzer](images/schema_buzzer_pir.png)
 
 ```
 Raspberry Pi (BCM)      HC-SR04
