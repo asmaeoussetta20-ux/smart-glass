@@ -3,7 +3,6 @@
 > **Assister les personnes malvoyantes grâce à l'intelligence artificielle**
 
 
-
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![YOLO](https://img.shields.io/badge/YOLO-11n-orange?logo=ultralytics)](https://docs.ultralytics.com/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B-red?logo=raspberrypi)](https://www.raspberrypi.com/)
