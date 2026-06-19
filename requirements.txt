@@ -1,0 +1,7 @@
+ultralytics
+picamera2
+opencv-python
+RPi.GPIO
+RPLCD
+# PyTorch doit être installé via piwheels.org (ARM)
+# pip install torch --index-url https://www.piwheels.org/simple/

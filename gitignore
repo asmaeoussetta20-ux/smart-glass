@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# YOLO model (trop lourd pour GitHub, télécharger via ultralytics)
+models/*.pt
+
+# Images de test
+*.jpg
+*.jpeg
+*.png
+!images/poster.png
+!images/prototype.jpg
+!images/soutenance.jpg
+
+# Logs
+*.log
+runs/
