@@ -2,9 +2,7 @@
 
 > **Assister les personnes malvoyantes grâce à l'intelligence artificielle**
 
-<p align="center">
-  <img src="images/prototype.jpg" alt="Smart Glass Prototype" width="450">
-</p>
+
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![YOLO](https://img.shields.io/badge/YOLO-11n-orange?logo=ultralytics)](https://docs.ultralytics.com/)
